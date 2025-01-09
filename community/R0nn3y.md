@@ -1,6 +1,6 @@
 # Roney Teixeira
 
-### Sobre mim: Sou Roney Teixeira Batista, estudante de Economia no sétimo semestre. Estou em transição de carreira para a área de tecnologia e atualmente me dedicando ao estudo de programação, com o objetivo de entrar no universo de desenvolvimento de software e aproveitar as oportunidades dessa área.
+### Sobre mim: Sou Roney Teixeira Batista, estudante de Economia. Estou em transição de carreira para a área de tecnologia e atualmente me dedicando ao estudo de programação, com o objetivo de entrar no universo de desenvolvimento de software e aproveitar as oportunidades dessa área.
 
 ## Habilidades
 
